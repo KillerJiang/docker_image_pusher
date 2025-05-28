@@ -1,2 +1,4 @@
 # openmmlab docker镜像
 openmmlab/lmdeploy:latest-cu12
+# milvus 向量数据库
+milvusdb/milvus:v2.4.13
