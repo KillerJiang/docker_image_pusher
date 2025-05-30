@@ -2,3 +2,4 @@
 openmmlab/lmdeploy:latest-cu12
 # milvus 向量数据库
 milvusdb/milvus:v2.4.13
+nvidia/cuda:11.8.0-cudnn8-runtime-ubuntu20.04
